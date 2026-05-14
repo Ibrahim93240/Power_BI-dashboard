@@ -1,4 +1,4 @@
-Sales Dashboard Project
+ Sales Dashboard Project
 📌 Project Overview
 
 This project is a Power BI Sales Dashboard created to analyze and visualize sales performance using interactive charts, KPIs, filters, and business insights.
